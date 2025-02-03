@@ -1,5 +1,3 @@
-# Music-genre-Classification
-
 # Music Genre Classification with Convolutional Neural Networks
 
 
